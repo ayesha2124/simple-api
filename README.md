@@ -1,28 +1,39 @@
-#  Simple API Project
+# Simple API Project  
 
-![CI](https://github.com/ayesha2124/simple-api/actions/workflows/ci.yml/badge.svg)
-![CodeQL](https://github.com/ayesha2124/simple-api/actions/workflows/codeql.yml/badge.svg)
-![Secret Scan](https://github.com/ayesha2124/simple-api/actions/workflows/secret-scan.yml/badge.svg)
+[![CI Pipeline](https://github.com/ayesha2124/simple-api/actions/workflows/ci.yml/badge.svg)](https://github.com/ayesha2124/simple-api/actions/workflows/ci.yml)
+[![CodeQL Analysis](https://github.com/ayesha2124/simple-api/actions/workflows/codeql.yml/badge.svg)](https://github.com/ayesha2124/simple-api/actions/workflows/codeql.yml)
+[![Secret Scanning Workflow](https://github.com/ayesha2124/simple-api/actions/workflows/secret-scan.yml/badge.svg)](https://github.com/ayesha2124/simple-api/actions/workflows/secret-scan.yml)
 
-This repository demonstrates a secure and automated CI/CD pipeline setup for a simple API project.
+---
 
-###  Features
-- **Code Quality** checks using ESLint
-- **CodeQL Analysis** for vulnerability detection
-- **Secret Scanning** with TruffleHog
-- **Automated Testing** via GitHub Actions
+##  Overview  
+This repository demonstrates a **secure and automated CI/CD pipeline** setup for a simple API project.  
 
-###  Workflows
-1. **CI Pipeline** – runs lint and tests  
-2. **CodeQL Analysis** – scans for code vulnerabilities  
-3. **Secret Scanning** – detects exposed secrets or tokens  
+---
 
-###  Tech Stack
-- Node.js
-- GitHub Actions
-- ESLint
-- TruffleHog
-- CodeQL
+##  Features  
+-  Code Quality checks using **ESLint**  
+-  **CodeQL Analysis** for vulnerability detection  
+-  **Secret Scanning** with TruffleHog  
+-  **Automated Testing** via GitHub Actions  
+
+---
+
+##  Workflows  
+| Workflow | Purpose |
+|-----------|----------|
+| **CI Pipeline** | Runs lint and test steps |
+| **CodeQL Analysis** | Scans for code vulnerabilities |
+| **Secret Scanning** | Detects exposed secrets or tokens |
+
+---
+
+##  Tech Stack  
+- **Node.js**  
+- **GitHub Actions**  
+- **ESLint**  
+- **TruffleHog**  
+- **CodeQL**
 
 ---
 
