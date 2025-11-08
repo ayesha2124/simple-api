@@ -54,7 +54,7 @@ Secret Scanning	Detects exposed secrets or API tokens
 
 ---
 
-## Challenges / Learnings
+## Challenges 
 
 Configuring CodeQL correctly to scan Node.js code required careful setup.
 
