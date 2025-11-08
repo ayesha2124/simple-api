@@ -6,7 +6,7 @@
 
 ---
 
-##videodemo: https://drive.google.com/file/d/1OIx3Ay2lgBfes9GFVlxkhwdLS9Tnfsdx/view?usp=drive_link
+videodemo: https://drive.google.com/file/d/1OIx3Ay2lgBfes9GFVlxkhwdLS9Tnfsdx/view?usp=drive_link
 
 ---
 
@@ -54,7 +54,7 @@ Secret Scanning	Detects exposed secrets or API tokens
 
 ---
 
-##Challenges / Learnings
+## Challenges / Learnings
 
 Configuring CodeQL correctly to scan Node.js code required careful setup.
 
@@ -66,7 +66,7 @@ Learned how automated DevSecOps pipelines improve code reliability and security.
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 Node.js
 
@@ -80,7 +80,7 @@ CodeQL
 
 ---
 
-##Reflection
+## Reflection
 
 Learned the importance of automated testing, code quality, and security checks, and handling serverless function responses effectively.
 
