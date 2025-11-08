@@ -38,6 +38,11 @@ cd simple-api
 npm install
 Run API locally
 
+```bash
+your command here
+```
+
+
 bash
 Copy code
 node src/index.js
