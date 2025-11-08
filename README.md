@@ -32,7 +32,7 @@ This repository demonstrates a **secure and automated CI/CD pipeline** setup for
 
 ## Setup Steps
 1. **Clone the repository**
-bash
+
 git clone https://github.com/ayesha2124/simple-api
 cd simple-api
 npm install
