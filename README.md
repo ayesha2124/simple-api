@@ -33,25 +33,30 @@ This repository demonstrates a **secure and automated CI/CD pipeline** setup for
 ## Setup Steps
 1. **Clone the repository**
 
-git clone https://github.com/ayesha2124/simple-api
-cd simple-api
-npm install
-Run API locally
-
 ```bash
-your command here
+git clone https://github.com/ayesha2124/simple-api
+```
+2. **Install dependencies**
+   
+```bash
+npm install
+```
+3. **Run API locally**
+   
+```bash
+node src/index.js
+
+```
+4. **npm test**
+   
+```bash
+npm test
 ```
 
+---
 
-bash
-Copy code
-node src/index.js
-Run tests locally
+## Workflows
 
-bash
-Copy code
-npm test
-Workflows
 Workflow	Purpose
 CI Pipeline	Runs linting and test steps automatically
 CodeQL Analysis	Scans the codebase for vulnerabilities
