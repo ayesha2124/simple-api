@@ -6,6 +6,10 @@
 
 ---
 
+##videodemo: https://drive.google.com/file/d/1OIx3Ay2lgBfes9GFVlxkhwdLS9Tnfsdx/view?usp=drive_link
+
+---
+
 ## Overview
 This repository demonstrates a **secure and automated CI/CD pipeline** setup for a simple Node.js API project.
 
@@ -37,8 +41,6 @@ Run API locally
 bash
 Copy code
 node src/index.js
-Access endpoint: http://localhost:3000/health
-
 Run tests locally
 
 bash
@@ -77,6 +79,13 @@ TruffleHog
 CodeQL
 
 ---
+
+##Reflection
+
+Learned the importance of automated testing, code quality, and security checks, and handling serverless function responses effectively.
+
+---
+
 
 All workflows are currently passing successfully!
 
